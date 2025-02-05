@@ -8,16 +8,16 @@ Welcome to the **C++ Basics to Pro** repository! 🎯 This repo is designed to t
 Click on each topic to view details and video explanations. 🎥
 
 ### 🚦 Beginner Level
-1️⃣ [Getting Started with C++](#getting-started-with-c++)
-2️⃣ [C++ Basics](#cpp-basics)
-3️⃣ [Functions and Arrays](#functions-and-arrays)
+1️⃣ [Getting Started with C++](#🚀-getting-started-with-c++)
+2️⃣ [C++ Basics](#📝-c++-basics)
+3️⃣ [Functions and Arrays](#🎯-functions-and-arrays)
 
 ### 🎯 Intermediate Level
-4️⃣ [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-5️⃣ [Advanced C++ Concepts](#advanced-cpp-concepts)
+4️⃣ [Object-Oriented Programming (OOP)](#🔥-object-oriented-programming-oop)
+5️⃣ [Advanced C++ Concepts](#💡-advanced-c++-concepts)
 
 ### 🏆 Advanced Level
-6️⃣ [C++ Projects & Problem Solving](#cpp-projects--problem-solving)
+6️⃣ [C++ Projects & Problem Solving](#🏆-c++-projects--problem-solving)
 
 ---
 
@@ -35,11 +35,9 @@ Click on each topic to view details and video explanations. 🎥
 ---
 
 ### 📝 C++ Basics
-
-✅ **Hello world & Syntax Explaination**  
-📌 Understanding C++ syntax in depth and how to use in different ways.  
+✅ **Hello World & Syntax Explanation**  
+📌 Understanding C++ syntax in depth and how to use it in different ways.  
 🎥 Watch here: [Hello World & Syntax Explanation](https://www.youtube.com/watch?v=rYAOJr2XLMU)
-
 
 ✅ **Data Types and Variables**  
 📌 Understand different data types in C++ (int, float, char, etc.), and how to declare and use variables effectively.  
