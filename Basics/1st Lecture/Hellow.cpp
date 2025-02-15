@@ -7,6 +7,6 @@ std::cout<<"";
 */
 int main()
 {
-    cout << "Hellow world!";
+    cout << "Hellow workd";
     return 0;
 }
